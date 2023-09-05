@@ -1,0 +1,60 @@
+h1 {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+
+}
+#showsum {
+  font-size: 1rem;
+  font-weight: bold;
+  color: red;
+  display: block;
+  text-align: center;
+}
+form {
+  text-align: center;
+  margin: 20px 0;
+}
+#num1 {
+  background-color: cornsilk;
+}
+#num1:focus {
+  background-color: aqua;
+}
+#num1:hover {
+  background-color: aqua;
+}
+#num2 {
+  background-color: cornsilk;
+}
+#num2:focus {
+  background-color: aqua;
+}
+#num2:hover {
+  background-color: aqua;
+}
+hr {
+  width: 70%;
+}
+#btnRed{
+  background-color: red;
+}
+#btnGreen{
+  background-color: green;
+}
+#btnYellow{
+  background-color: yellow;
+}
+button{
+  width: 100px;
+  padding: 7px 0;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+button:hover{
+  background-color: gray;
+}
+div{
+  text-align: center;
+}
